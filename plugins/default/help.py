@@ -1,0 +1,1 @@
+apisay(open('system/help.txt','r',encoding="utf8").read(),toho)

@@ -1,0 +1,27 @@
+{
+	"path":{
+		"баланс":["default","balance.py"],
+		"топ":["default","top.py"],
+		"лот":["default","lottery.py"],
+		"повтори":["default","repeat.py"],
+		"музыка":["default","audio.py"],
+		"бура":["default","booru.py"],
+		"дата":["default","date.py"],
+		"помощь":["default","help.py"],
+		"инфа":["default","info.py"],
+		"кек":["default","kek.py"],
+		"вьетнам":["default","vietnam.py"],
+		"видео":["default","video.py"],
+		"доки":["default","docs.py"],
+		"цитата":["default","quote.py"],
+		"34":["default","rule34.py"],
+		"63":["default","rule63.py"],
+		"когда":["default","when.py"],
+		"стата":["default","status.py"],
+		"стат":["default","status.py"],
+		"статус":["default","status.py"],
+		"py":["admin","py.py"],
+		"терм":["admin","terminal.py"],
+		"exec":["admin","exec.py"]
+	}
+}
